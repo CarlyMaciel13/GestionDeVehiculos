@@ -19,6 +19,8 @@ namespace GestionDeVehiculos
             {
                 Console.WriteLine(vehiculo.ToString());
             }
+            Vehiculo vehiculo1 = new Vehiculo(0, "Toyota", "Corolla", 2020, "Rojo", "ABC123", "Auto");
+            vehiculoService.AgregarVehiculo(vehiculo1);
         }
     }
 }

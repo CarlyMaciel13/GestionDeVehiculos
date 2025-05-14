@@ -1,0 +1,113 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\carla\\Desktop\\Terciario\\2\u00B0A\u00F1o\\Algoritmos\\Nueva carpeta\\GestionDeVehiculos\\GestionDeVehiculos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{56049743-CBE0-407F-A977-54E666AB3DE7}|GestionDeVehiculos\\GestionDeVehiculos.csproj|c:\\users\\carla\\desktop\\terciario\\2\u00B0a\u00F1o\\algoritmos\\nueva carpeta\\gestiondevehiculos\\gestiondevehiculos\\gestiondevehiculos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56049743-CBE0-407F-A977-54E666AB3DE7}|GestionDeVehiculos\\GestionDeVehiculos.csproj|solutionrelative:gestiondevehiculos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56049743-CBE0-407F-A977-54E666AB3DE7}|GestionDeVehiculos\\GestionDeVehiculos.csproj|c:\\users\\carla\\desktop\\terciario\\2\u00B0a\u00F1o\\algoritmos\\nueva carpeta\\gestiondevehiculos\\gestiondevehiculos\\gestiondevehiculos\\services\\vehiculoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56049743-CBE0-407F-A977-54E666AB3DE7}|GestionDeVehiculos\\GestionDeVehiculos.csproj|solutionrelative:gestiondevehiculos\\services\\vehiculoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56049743-CBE0-407F-A977-54E666AB3DE7}|GestionDeVehiculos\\GestionDeVehiculos.csproj|c:\\users\\carla\\desktop\\terciario\\2\u00B0a\u00F1o\\algoritmos\\nueva carpeta\\gestiondevehiculos\\gestiondevehiculos\\gestiondevehiculos\\context\\vehiculocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56049743-CBE0-407F-A977-54E666AB3DE7}|GestionDeVehiculos\\GestionDeVehiculos.csproj|solutionrelative:gestiondevehiculos\\context\\vehiculocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56049743-CBE0-407F-A977-54E666AB3DE7}|GestionDeVehiculos\\GestionDeVehiculos.csproj|c:\\users\\carla\\desktop\\terciario\\2\u00B0a\u00F1o\\algoritmos\\nueva carpeta\\gestiondevehiculos\\gestiondevehiculos\\gestiondevehiculos\\models\\camion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56049743-CBE0-407F-A977-54E666AB3DE7}|GestionDeVehiculos\\GestionDeVehiculos.csproj|solutionrelative:gestiondevehiculos\\models\\camion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56049743-CBE0-407F-A977-54E666AB3DE7}|GestionDeVehiculos\\GestionDeVehiculos.csproj|c:\\users\\carla\\desktop\\terciario\\2\u00B0a\u00F1o\\algoritmos\\nueva carpeta\\gestiondevehiculos\\gestiondevehiculos\\gestiondevehiculos\\interfaces\\ivehiculodecarga.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56049743-CBE0-407F-A977-54E666AB3DE7}|GestionDeVehiculos\\GestionDeVehiculos.csproj|solutionrelative:gestiondevehiculos\\interfaces\\ivehiculodecarga.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\carla\\Desktop\\Terciario\\2\u00B0A\u00F1o\\Algoritmos\\Nueva carpeta\\GestionDeVehiculos\\GestionDeVehiculos\\GestionDeVehiculos\\Program.cs",
+              "RelativeDocumentMoniker": "GestionDeVehiculos\\Program.cs",
+              "ToolTip": "C:\\Users\\carla\\Desktop\\Terciario\\2\u00B0A\u00F1o\\Algoritmos\\Nueva carpeta\\GestionDeVehiculos\\GestionDeVehiculos\\GestionDeVehiculos\\Program.cs*",
+              "RelativeToolTip": "GestionDeVehiculos\\Program.cs*",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAswBYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T00:22:05.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "VehiculoContext.cs",
+              "DocumentMoniker": "C:\\Users\\carla\\Desktop\\Terciario\\2\u00B0A\u00F1o\\Algoritmos\\Nueva carpeta\\GestionDeVehiculos\\GestionDeVehiculos\\GestionDeVehiculos\\Context\\VehiculoContext.cs",
+              "RelativeDocumentMoniker": "GestionDeVehiculos\\Context\\VehiculoContext.cs",
+              "ToolTip": "C:\\Users\\carla\\Desktop\\Terciario\\2\u00B0A\u00F1o\\Algoritmos\\Nueva carpeta\\GestionDeVehiculos\\GestionDeVehiculos\\GestionDeVehiculos\\Context\\VehiculoContext.cs",
+              "RelativeToolTip": "GestionDeVehiculos\\Context\\VehiculoContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T23:47:14.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VehiculoService.cs",
+              "DocumentMoniker": "C:\\Users\\carla\\Desktop\\Terciario\\2\u00B0A\u00F1o\\Algoritmos\\Nueva carpeta\\GestionDeVehiculos\\GestionDeVehiculos\\GestionDeVehiculos\\Services\\VehiculoService.cs",
+              "RelativeDocumentMoniker": "GestionDeVehiculos\\Services\\VehiculoService.cs",
+              "ToolTip": "C:\\Users\\carla\\Desktop\\Terciario\\2\u00B0A\u00F1o\\Algoritmos\\Nueva carpeta\\GestionDeVehiculos\\GestionDeVehiculos\\GestionDeVehiculos\\Services\\VehiculoService.cs",
+              "RelativeToolTip": "GestionDeVehiculos\\Services\\VehiculoService.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAYwFwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T23:34:08.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Camion.cs",
+              "DocumentMoniker": "C:\\Users\\carla\\Desktop\\Terciario\\2\u00B0A\u00F1o\\Algoritmos\\Nueva carpeta\\GestionDeVehiculos\\GestionDeVehiculos\\GestionDeVehiculos\\Models\\Camion.cs",
+              "RelativeDocumentMoniker": "GestionDeVehiculos\\Models\\Camion.cs",
+              "ToolTip": "C:\\Users\\carla\\Desktop\\Terciario\\2\u00B0A\u00F1o\\Algoritmos\\Nueva carpeta\\GestionDeVehiculos\\GestionDeVehiculos\\GestionDeVehiculos\\Models\\Camion.cs",
+              "RelativeToolTip": "GestionDeVehiculos\\Models\\Camion.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T23:32:59.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IVehiculoDeCarga.cs",
+              "DocumentMoniker": "C:\\Users\\carla\\Desktop\\Terciario\\2\u00B0A\u00F1o\\Algoritmos\\Nueva carpeta\\GestionDeVehiculos\\GestionDeVehiculos\\GestionDeVehiculos\\Interfaces\\IVehiculoDeCarga.cs",
+              "RelativeDocumentMoniker": "GestionDeVehiculos\\Interfaces\\IVehiculoDeCarga.cs",
+              "ToolTip": "C:\\Users\\carla\\Desktop\\Terciario\\2\u00B0A\u00F1o\\Algoritmos\\Nueva carpeta\\GestionDeVehiculos\\GestionDeVehiculos\\GestionDeVehiculos\\Interfaces\\IVehiculoDeCarga.cs",
+              "RelativeToolTip": "GestionDeVehiculos\\Interfaces\\IVehiculoDeCarga.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T23:32:50.892Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -5,3 +5,10 @@ C:\Users\Usuario\Desktop\GestionDeVehiculos\GestionDeVehiculos\bin\Debug\Gestion
 C:\Users\Usuario\Desktop\GestionDeVehiculos\GestionDeVehiculos\bin\Debug\GestionDeVehiculos.pdb
 C:\Users\Usuario\Desktop\GestionDeVehiculos\GestionDeVehiculos\obj\Debug\GestionDeVehiculos.exe
 C:\Users\Usuario\Desktop\GestionDeVehiculos\GestionDeVehiculos\obj\Debug\GestionDeVehiculos.pdb
+C:\Users\carla\Desktop\Terciario\2°Año\Algoritmos\Nueva carpeta\GestionDeVehiculos\GestionDeVehiculos\GestionDeVehiculos\bin\Debug\GestionDeVehiculos.exe.config
+C:\Users\carla\Desktop\Terciario\2°Año\Algoritmos\Nueva carpeta\GestionDeVehiculos\GestionDeVehiculos\GestionDeVehiculos\bin\Debug\GestionDeVehiculos.exe
+C:\Users\carla\Desktop\Terciario\2°Año\Algoritmos\Nueva carpeta\GestionDeVehiculos\GestionDeVehiculos\GestionDeVehiculos\bin\Debug\GestionDeVehiculos.pdb
+C:\Users\carla\Desktop\Terciario\2°Año\Algoritmos\Nueva carpeta\GestionDeVehiculos\GestionDeVehiculos\GestionDeVehiculos\obj\Debug\GestionDeVehiculos.csproj.AssemblyReference.cache
+C:\Users\carla\Desktop\Terciario\2°Año\Algoritmos\Nueva carpeta\GestionDeVehiculos\GestionDeVehiculos\GestionDeVehiculos\obj\Debug\GestionDeVehiculos.csproj.CoreCompileInputs.cache
+C:\Users\carla\Desktop\Terciario\2°Año\Algoritmos\Nueva carpeta\GestionDeVehiculos\GestionDeVehiculos\GestionDeVehiculos\obj\Debug\GestionDeVehiculos.exe
+C:\Users\carla\Desktop\Terciario\2°Año\Algoritmos\Nueva carpeta\GestionDeVehiculos\GestionDeVehiculos\GestionDeVehiculos\obj\Debug\GestionDeVehiculos.pdb

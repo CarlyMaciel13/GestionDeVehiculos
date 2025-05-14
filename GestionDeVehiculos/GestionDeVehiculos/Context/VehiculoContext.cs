@@ -10,7 +10,7 @@ namespace GestionDeVehiculos.Context
 {
     public class VehiculoContext
     {
-        private readonly string connectionString = "Server=DESKTOP-IE4M0CJ\\SQLEXPRESS;Database=GestionDV;UID=sa;PWD=12345678;TrustServerCertificate=True;";
+        private readonly string connectionString = "Server=LAPTOP-8GCRCA54\\SQLEXPRESS01;Initial Catalog= GestionDV; Integrated Security=true;";
 
         public SqlConnection GetConnection()
         {
